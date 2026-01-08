@@ -1,0 +1,11 @@
+# Market & Trend Research Agent Dependencies
+# Install with: pip install -r requirements.txt
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Tavily search API client
+tavily-python>=0.3.0
+
+# Google Gemini API client
+google-genai>=0.3.0
